@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@affadam 
-avnyadav
-/
-machine_learning_project
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-machine_learning_project/.github/workflows/main.yaml
-
-Avnish327030 Added github work for heroku deployment
-Latest commit 8eafca8 18 days ago
- History
- 0 contributors
-59 lines (44 sloc)  1.95 KB
-
 # Your workflow name.
 name: Deploy to heroku.
 
